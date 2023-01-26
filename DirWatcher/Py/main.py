@@ -2,8 +2,8 @@ import os
 import time
 import datetime
 
-dir = 'C:\\Users\\kiiza\\Documents\\AllTools\\PyTools\\FileMonitor'
-logpath = "C:\\Users\\kiiza\\Documents\\AllTools\\PyTools\\FileMonitor\\filelog.txt"
+dir = 'PathToScript'
+logpath = "PathToFileLog"
 
 log = open(logpath, "a")
 
