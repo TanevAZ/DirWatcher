@@ -16,7 +16,7 @@ python main.py OR run the main file
 ```
 Java Version
 ```sh
-cd DirWatcher/Py
+cd DirWatcher/Java
 Just run with IDE (like eclipse)
 ```
 ## License
